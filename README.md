@@ -34,13 +34,6 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** passionate about bu
 
 ---
 
-## 📈 GitHub Stats
-
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardo-gabriel&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-gabriel&layout=compact&theme=radical)
-
----
-
 ## 🔗 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardogabrielalvarez)
