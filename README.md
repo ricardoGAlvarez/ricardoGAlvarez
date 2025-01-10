@@ -19,11 +19,9 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** passionate about bu
 ### **Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### **Backend**
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### **Database**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -33,14 +31,6 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** passionate about bu
 ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
 ![Lucide React](https://img.shields.io/badge/Lucide%20React-black?style=for-the-badge&logo=react&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardo-gabriel&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-gabriel&layout=compact&theme=radical)
-
----
 
 ## 🔗 Let's Connect!
 
