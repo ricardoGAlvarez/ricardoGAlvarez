@@ -41,10 +41,4 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** passionate about bu
 
 ---
 
-### ✨ Projects
-
-- **[Turnify](https://github.com/ricardo-gabriel/turnify)**: A SaaS platform for managing professional appointments efficiently.
-- **[HealthFood](https://github.com/ricardo-gabriel/healthfood)**: E-commerce for healthy food and wellness coaching.
-- **[Restaurant Management System](https://github.com/ricardo-gabriel/restaurant-management)**: Comprehensive system for managing orders, products, and payments in restaurants.
-
 Feel free to explore my repositories and reach out if you'd like to collaborate on a project. Thanks for stopping by! ✨
